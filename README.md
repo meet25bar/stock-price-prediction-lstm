@@ -1,16 +1,16 @@
 ﻿# stock-price-prediction-lstm
 
 📈 Stock Price Prediction using LSTM
-
-A deep learning project that predicts stock prices using Long Short-Term Memory (LSTM) neural networks and historical stock market data. This project demonstrates the application of time series forecasting in financial data analysis using Python and TensorFlow/Keras.
+-A deep learning project that predicts stock prices using Long Short-Term Memory (LSTM) neural networks and historical stock market data. This project demonstrates the application of time   series forecasting in financial data analysis using Python and TensorFlow/Keras.
 
 🚀 Features
-Historical stock market data preprocessing
-Data normalization using MinMaxScaler
-Time-series sequence generation using sliding window approach
-LSTM-based deep learning model
-Stock price prediction and visualization
-Training and testing on real stock market data
+-Historical stock market data preprocessing
+-Data normalization using MinMaxScaler
+-Time-series sequence generation using sliding window approach
+-LSTM-based deep learning model
+-Stock price prediction and visualization
+-Training and testing on real stock market data
+
 🛠️ Technologies Used
 Python
 TensorFlow / Keras
