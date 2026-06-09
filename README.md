@@ -18,16 +18,15 @@ NumPy
 Pandas
 Matplotlib
 Scikit-learn
+
 📂 Dataset
-
 The dataset contains historical stock market data including:
-
-Date
-Open Price
-High Price
-Low Price
-Close Price
-Volume
+-Date
+-Open Price
+-High Price
+-Low Price
+-Close Price
+-Volume
 
 The model primarily uses the stock price column for prediction.
 
