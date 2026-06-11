@@ -35,14 +35,14 @@ The model primarily uses the stock price column for prediction.
 The project uses an LSTM neural network designed for time series forecasting.
 
 Workflow:
-Data preprocessing
-Feature scaling
-Creating 60-day input sequences
-Training LSTM model
-Predicting future stock prices
-Visualizing results
-📊 How It Works
+-Data preprocessing
+-Feature scaling
+-Creating 60-day input sequences
+-Training LSTM model
+-Predicting future stock prices
+-Visualizing results
 
+📊 How It Works
 The model learns patterns from the previous 60 days of stock prices to predict the next day's price.
 
 Example:
@@ -57,8 +57,8 @@ Input shape used for LSTM:
 Example:
 
 (1198, 60, 1)
-📸 Output
 
+📸 Output
 The model generates graphs comparing:
 
 Real Stock Prices
@@ -67,7 +67,6 @@ Predicted Stock Prices
 to evaluate prediction performance.
 
 ▶️ Installation
-
 Clone the repository:
 
 git clone https://github.com/your-username/stock-price-prediction-lstm.git
@@ -88,12 +87,13 @@ stock-price-prediction-lstm/
 ├── main.py
 ├── requirements.txt
 └── README.md
-📈 Future Improvements
-Add multiple stock indicators
-Use GRU/Bidirectional LSTM
-Integrate live stock market APIs
-Improve forecasting accuracy
-Deploy as a web application
-🤝 Contributing
 
-Contributions are welcome. Feel free to fork the repository and submit pull requests.
+📈 Future Improvements
+-Add multiple stock indicators
+-Use GRU/Bidirectional LSTM
+-Integrate live stock market APIs
+-Improve forecasting accuracy
+-Deploy as a web application
+
+🤝 Contributing
+-Contributions are welcome. Feel free to fork the repository and submit pull requests.
